@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm [NamNguyen0312]() 👨‍💻
+### Hey 👋, I'm [NamNguyen0312](https://github.com/Namnguyen0312) 👨‍💻
 
 
 👨‍🎓 A computer science student at **[Can Tho University](https://www.ctu.edu.vn/)** 
