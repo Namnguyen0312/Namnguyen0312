@@ -7,7 +7,7 @@
 ### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision
-- :e-mail: Ask me about anything ; **[nam031202@gmail.com](nam031202@gmail.com)**
+- :e-mail: Ask me about anything ; **[nam031202@gmail.com]**
 
 ![Namnguyen0312's github stats](https://github-readme-stats.vercel.app/api?username=Namnguyen0312&show_icons=true&hide_border=true)
 
