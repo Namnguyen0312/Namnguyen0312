@@ -26,4 +26,4 @@
 ### Reach out to me 👓
 |       **[Namnguyen0312](https://github.com/Namnguyen0312)**                                                                                |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/hritik5102"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100009692737273"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>|
+| <a href="https://github.com/Namnguyen0312"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100009692737273"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>|
